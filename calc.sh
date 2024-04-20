@@ -7,3 +7,5 @@
 - third commit
 
 - sixth change
+
+- seventh change
