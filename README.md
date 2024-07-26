@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iDL08
-- 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning AWS as a beginner
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning DevOps as a beginner
 
 
 <!---
