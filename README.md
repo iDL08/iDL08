@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iDL08
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning DevOps as a beginner
+- 🌱 DevOps enthusist
 
 
 <!---
