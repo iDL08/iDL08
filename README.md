@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iDL08
-- 🌱 DevOps enthusist
+- 🌱 DevOps engineer
 
 
 <!---
